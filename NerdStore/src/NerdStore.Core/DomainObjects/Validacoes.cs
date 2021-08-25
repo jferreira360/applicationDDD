@@ -20,11 +20,6 @@ namespace NerdStore.Core.DomainObjects
             }
         }
 
-        public static void ValidarSeMenorIgualMinimo(decimal valor, decimal minimo, string mensagem)
-        {
-            if (valor < minimo) throw new DomainException(mensagem);
-        }
-
         public static void ValidarSeDiferente(string pattern, string valor, string mensagem)
         {
             var regex = new Regex(pattern);
