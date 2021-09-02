@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eh4vIksvRue1pQJKEgplTd98PRJPXjjpIxbaBB/enw51uaAVyW9z6r6PnfRN+eyaqmpX54zzrOZfhRIw++DjKg==",
+  "dgSpecHash": "YGQxJEyi9fe8Mxry3alNtz5rRF4fg8Tof9RKengddM/ShdpVJItkZIWb9SQZg4cZ+gu01XtfWdQK3+6ZgCHgMA==",
   "success": true,
   "projectFilePath": "C:\\FormacaoDDD\\applicationDDD\\NerdStore\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jferr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\jferr\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\jferr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jferr\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\jferr\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

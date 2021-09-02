@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TGotkXTBDecHdrLhPQSfBY88FX6+6tcstszf9kaotzVbf3CE1uOix2uXcRlWDxk3XI/bgtg2UGbLSD5/cxefEw==",
+  "dgSpecHash": "wqxIARtLkynr0ob8uomSZ7cGbi6ui9D5dgtE2J1Ef773/R9v/QhJGSF/v+PvduvG+jmYYyvi71XInf6lXciV0g==",
   "success": true,
   "projectFilePath": "C:\\FormacaoDDD\\applicationDDD\\NerdStore\\NerdStore.Catalogo.Domain.Test\\NerdStore.Catalogo.Domain.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jferr\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\jferr\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\jferr\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\jferr\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\jferr\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
