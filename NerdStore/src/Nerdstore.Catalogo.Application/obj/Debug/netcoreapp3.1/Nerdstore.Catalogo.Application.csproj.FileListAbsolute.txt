@@ -1,0 +1,14 @@
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\bin\Debug\netcoreapp3.1\Nerdstore.Catalogo.Application.deps.json
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\bin\Debug\netcoreapp3.1\Nerdstore.Catalogo.Application.dll
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\bin\Debug\netcoreapp3.1\Nerdstore.Catalogo.Application.pdb
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\obj\Debug\netcoreapp3.1\Nerdstore.Catalogo.Application.csproj.AssemblyReference.cache
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\obj\Debug\netcoreapp3.1\Nerdstore.Catalogo.Application.AssemblyInfoInputs.cache
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\obj\Debug\netcoreapp3.1\Nerdstore.Catalogo.Application.AssemblyInfo.cs
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\obj\Debug\netcoreapp3.1\Nerdstore.Catalogo.Application.csproj.CoreCompileInputs.cache
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\obj\Debug\netcoreapp3.1\Nerdstore.Catalogo.Application.csproj.CopyComplete
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\obj\Debug\netcoreapp3.1\Nerdstore.Catalogo.Application.dll
+C:\FormacaoDDD\applicationDDD\NerdStore\src\Nerdstore.Catalogo.Application\obj\Debug\netcoreapp3.1\Nerdstore.Catalogo.Application.pdb

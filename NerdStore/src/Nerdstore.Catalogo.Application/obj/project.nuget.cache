@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1vz32P7X8cd4/iAR6nlgJv/gknMqn7Z2lpJp4mHLNIKFN0iaxe/bvqGAA893Ihbj4FpKZPSrDD3bHHYg6GFSg==",
+  "success": true,
+  "projectFilePath": "C:\\FormacaoDDD\\applicationDDD\\NerdStore\\src\\Nerdstore.Catalogo.Application\\Nerdstore.Catalogo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jferr\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\jferr\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\jferr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\jferr\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

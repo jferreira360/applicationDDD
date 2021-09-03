@@ -100,3 +100,4 @@ C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\MediatR.dll
