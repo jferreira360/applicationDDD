@@ -1,3 +1,4 @@
+C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\testhost.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\testhost.exe
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -9,6 +10,7 @@ C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Test.runtimeconfig.dev.json
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Test.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Test.pdb
+C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -87,6 +89,10 @@ C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Test.csproj.AssemblyReference.cache
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Test.AssemblyInfoInputs.cache
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Test.AssemblyInfo.cs
@@ -95,9 +101,3 @@ C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\obj\Debug
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Test.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Test.pdb
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Test.genruntimeconfig.cache
-C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
-C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
-C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
-C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
-C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
-C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Domain.Test\bin\Debug\netcoreapp3.1\MediatR.dll

@@ -1,7 +1,11 @@
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.deps.json
+C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.runtimeconfig.json
+C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.runtimeconfig.dev.json
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
+C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.csproj.AssemblyReference.cache
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.AssemblyInfoInputs.cache
@@ -10,8 +14,4 @@ C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\obj\Debug\netcor
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.csproj.CopyComplete
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.dll
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
-C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
-C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
-C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.runtimeconfig.json
-C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.runtimeconfig.dev.json
 C:\FormacaoDDD\applicationDDD\NerdStore\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.genruntimeconfig.cache
